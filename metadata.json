@@ -1,5 +1,9 @@
 {
-  "name": "PM",
-  "symbol": "NIGHT",
-  "image": "https://raw.githubusercontent.com/Daimmehmood/PM-NIGHT-COIN/refs/heads/main/PM.jpeg"
+  "name": "PMCoin",
+  "symbol": "PM",
+  "image": "https://raw.githubusercontent.com/Daimmehmood/PM-NIGHT-COIN/refs/heads/main/PM.jpeg",
+  "description": "PMCoin ($PM) is a lifestyle-driven cryptocurrency built to power nightlife, entertainment, and hospitality. More than a digital currency, PMCoin is an exclusive-access token that unlocks VIP perks, venue entry, and real-world rewards with a growing network of partners worldwide. Backed by a secure blockchain, PMCoin connects digital assets to live experiences, turning purchases into moments, loyalty, and social connections. Perfect for nightlife lovers, culture seekers, and social explorers, PMCoin translates moments into value—whether it’s premium club access, partner rewards, or community events.",
+  "website": "https://www.pmcoin.xyz",
+  "twitter": "https://x.com/PMCoinXYZ",
+  "supply": "1000000000"
 }
